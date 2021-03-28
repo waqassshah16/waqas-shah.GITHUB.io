@@ -1,0 +1,38 @@
+.navbar{
+
+
+background-color: #c382ee !important;
+
+}
+.navbar-brand{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important;
+font-weight: bold !important;
+
+}
+
+li >a{
+
+    font: 25px solid black !important;
+}
+
+.navbar-brand{
+
+font-size: 40px !important;
+
+}
+
+.dropdown{
+
+margin-right: 20px !important;
+padding: 10px !important;
+}
+
+.dropdown-toggle{
+
+
+font-size: 25px !important;
+font-weight: bold !important;
+
+
+}
