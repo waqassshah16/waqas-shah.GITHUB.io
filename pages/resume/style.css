@@ -1,0 +1,167 @@
+*{
+    /* background-color: #eef1f6; */
+    margin: 0%;
+    padding: 0%;
+    background-color: #1D1E20;
+    
+    }
+    
+    .container{
+    
+    display: block;
+    
+    }
+    .gfg {
+               
+        position: relative;
+        opacity: 0.7;
+     
+    }
+    
+    .first-txt {
+        font-family: 'Righteous', cursive;
+        font-size: 40px;
+        color: rgb(246, 243, 243);
+        position: absolute;
+        bottom: 120px;
+        left: 205px; 
+    }
+    
+    .second-txt {
+        font-family: 'Roboto', sans-serif;
+        color: rgb(21, 224, 214);
+        font-size: 25px;
+        position: absolute;
+        bottom: 80px;
+        left: 290px;}
+    
+        .mainheading{
+            color: white;
+            font-family: 'Righteous', cursive;
+            font-size: 60px;
+            margin-top: 80px;
+            padding-left: 30px;
+    
+        }
+    
+       
+    
+        .mainintro{
+            font-size: 24px;
+            color: rgb(21, 224, 214);
+            margin-bottom: 30px;
+            padding-left: 30px;
+            font-family: 'Roboto', sans-serif;
+    
+        }
+        .mainpara{
+            color: white;
+            font-size: 24px;
+            text-align: justify;
+            margin-top: 20px;
+            padding-left: 30px;
+            margin-right: 5%;
+            font-family: 'Roboto', sans-serif;
+        }
+        .myservices{
+    
+    
+            color: white;
+            font-family: 'Righteous', cursive;
+            font-size: 40px;
+            margin-top: 60px;
+            padding-left: 30px;
+        }
+
+        .col{
+
+            font-family: 'Roboto', sans-serif !important;
+            font-size: 14px !important;
+            color: white !important;
+            padding-left: 30px;
+            padding-right: 80px;
+            text-align: justify;
+
+
+        }
+
+
+        /* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: rgb(21, 224, 214);
+  }
+  
+  .svg-icon circle {
+    stroke: rgb(21, 224, 214);
+    stroke-width: 1;
+  }
+
+  /* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: rgb(21, 224, 214);
+  }
+  
+  .svg-icon circle {
+    stroke: rgb(21, 224, 214);
+    stroke-width: 1;
+  }
+
+  /* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill: rgb(21, 224, 214);
+  }
+  
+  .svg-icon circle {
+    stroke: rgb(21, 224, 214);
+    stroke-width: 1;
+  }
+
+  /* -----
+SVG Icons - svgicons.sparkk.fr
+----- */
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+  }
+  
+  .svg-icon path,
+  .svg-icon polygon,
+  .svg-icon rect {
+    fill:  rgb(21, 224, 214);
+  }
+  
+  .svg-icon circle {
+    stroke: rgb(21, 224, 214);
+    stroke-width: 1;
+  }
