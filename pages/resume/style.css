@@ -23,7 +23,7 @@
         font-size: 40px;
         color: rgb(246, 243, 243);
         position: absolute;
-        bottom: 120px;
+        bottom: 50px;
         left: 205px; 
     }
     
@@ -32,7 +32,7 @@
         color: rgb(21, 224, 214);
         font-size: 25px;
         position: absolute;
-        bottom: 80px;
+        bottom: 10px;
         left: 290px;}
     
         .mainheading{
