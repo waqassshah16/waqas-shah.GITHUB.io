@@ -4,6 +4,8 @@ document.write("<h2>" +"This is table of "+""+""+table   );
 for(var i=1 ; i<=15 ;  i++){
 document.write("<h1>" + "<hr>" +table + "  "+" X " + i + "  " +" = " +i*table +"<br>" ); 
 
+//table length is missing 
+
 
 
 }
