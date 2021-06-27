@@ -1,0 +1,127 @@
+body {
+    font-family: sans-serif;
+    margin:0 auto;
+    background: rgb(210, 255, 209);
+}
+
+.waqas{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:auto;
+    padding: 22px 18px;
+    text-align: center;
+    box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+    margin-top: 10px;
+    background: rgb(202, 50, 230);
+background: -moz-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -webkit-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -o-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -ms-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: linear-gradient(120deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+    
+}
+#main_container div {
+    margin: 0 auto;
+    width: 98%;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+#birth_date_input {
+    text-align: center;
+    width: 90%;
+    padding: 10px 0;
+    color: #fff;
+    text-shadow: 1px -1px 2px rgba(0,0,0,0.6);
+    box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+background: #ff0000;
+background: linear-gradient(51deg,#ff0000 0%, #417641 20%);
+background: -webkit-linear-gradient(51deg,#ff0000 0%, #417641 20%);
+background: -moz-linear-gradient(51deg,#ff0000 0%, #417641 20%);
+}
+
+#age_container {
+  color: #a3a3a3;
+  font: inherit;
+  border: 0;
+  display : none;
+}
+
+#birth_date {
+    width: 100%;
+  color: #fff;
+  font: inherit;
+  box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+  margin: 0 auto;
+  text-align: center;
+  padding: 8px;
+  background: rgb(104, 139, 255);
+background: -moz-linear-gradient(30deg, rgb(104, 139, 255) 30%, rgb(103, 124, 31) 70%);
+background: -webkit-linear-gradient(30deg, rgb(104, 139, 255) 30%, rgb(103, 124, 31) 70%);
+background: -o-linear-gradient(30deg, rgb(104, 139, 255) 30%, rgb(103, 124, 31) 70%);
+background: -ms-linear-gradient(30deg, rgb(104, 139, 255) 30%, rgb(103, 124, 31) 70%);
+background: linear-gradient(120deg, rgb(104, 139, 255) 30%, rgb(103, 124, 31) 70%);
+}
+
+.btn {
+  text-align: center;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  border: 0;
+  outline: 0;
+  padding: 0;
+  text-shadow: 1px -1px 2px rgba(0,0,0,0.6);
+  transition: all 200ms ease-in;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+.btn--primary {
+  background: #7f8ff4;
+  color: #fff;
+  box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+  border-radius: 2px;
+  padding: 12px 0;
+}
+.btn--primary:hover {
+  background: #77f26c;
+}
+.btn--primary:active {
+  background: #4f80db;
+  box-shadow: inset 0 0 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+#exact_age {
+    margin:0 auto;
+    color:#FFF;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#exact_age div {
+    width:92%;
+    padding: 22px 18px;
+    box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 5px 0px rgba(0,0,0,0.75);
+    margin-top: 10px;
+    background: rgb(202, 50, 230);
+background: -moz-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -webkit-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -o-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: -ms-linear-gradient(30deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+background: linear-gradient(120deg, rgb(202, 50, 230) 30%, rgb(90, 140, 250) 70%);
+}
+
+::placeholder {
+  color: #fff;
+  opacity: 1; 
+}
